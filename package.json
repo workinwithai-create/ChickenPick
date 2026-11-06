@@ -1,0 +1,8 @@
+{
+  "name": "chickenpick",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ChickenPick: a playable chicken-pickin' Tele desk for your MIDI keyboard. Tempo-synced muted ghosts, open twang, double-stops and hybrid snaps over YOUR BPM/key/chords, with country bass + train-beat drums. DAW-grid WAV + MIDI export.",
+  "scripts": { "build": "rm -rf dist && mkdir -p dist && cp index.html app.js styles.css dist/" },
+  "license": "UNLICENSED"
+}
